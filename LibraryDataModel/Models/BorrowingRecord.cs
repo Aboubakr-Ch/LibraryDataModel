@@ -1,5 +1,4 @@
-﻿
-namespace LibraryDataModel.Models
+﻿namespace LibraryDataModel.Models
 {
     public class BorrowingRecord : BaseEntity
     {
